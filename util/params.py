@@ -34,6 +34,7 @@ class All_phoneme():
         if 'Mandarin' in input_langs:
             self.phon = pd.read_csv('./dataset/mandarin_all_phoneme.csv')
 
+
 class Mode():
     def __init__(self, mode):
         self.input_labels = None
@@ -137,8 +138,8 @@ class Transformer_params():
         self.input_size = train_dataset[0][0].shape
         self.num_layers = 3
         self.hidden_size = 128
-        self.learning_rate = 0.0002
-        self.num_epochs = 50
+        self.learning_rate = 0.0003
+        self.num_epochs = 20
         phoneme = Phoneme(target)
         self.num_classes_initials = len(phoneme.initials) + 1
         self.num_classes_finals = len(phoneme.finals)

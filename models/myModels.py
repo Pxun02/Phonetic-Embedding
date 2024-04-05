@@ -122,8 +122,9 @@ class Transformer(nn.Module):
 
         self.embedding = nn.Linear(input_size[1], hidden_size)
         self.pos_encoder = PositionalEncoding(hidden_size, max_len=max_length)
-        encoder_layers = TransformerEncoderLayer(hidden_size, nhead=8)
+        encoder_layers = TransformerEncoderLayer(hidden_size, nhead=8, batch_first=True)
         self.transformer_encoder = TransformerEncoder(encoder_layers, num_layers)
+        self.dropout = nn.Dropout(p=0.2)
         self.fc1 = nn.Linear(hidden_size * input_size[0], num_classes_1)
         self.fc2 = nn.Linear(hidden_size * input_size[0], num_classes_2)
         self.fc3 = nn.Linear(hidden_size * input_size[0], num_classes_3)
@@ -136,18 +137,20 @@ class Transformer(nn.Module):
         x = self.pos_encoder(x)
 
         out = self.transformer_encoder(x)
+        out = self.dropout(out)
 
-        out = out.reshape((out.shape[0], out.shape[1] * out.shape[2]))
-        if out.shape[0] == 1:
-            out = out.squeeze(0)
+        out = out.reshape(out.size(0), -1)
         x1 = self.fc1(out)
         x2 = self.fc2(out)
         x3 = self.fc3(out)
 
+        x1 = x1.squeeze(0)
+        x2 = x2.squeeze(0)
+        x3 = x3.squeeze(0)
         return x1, x2, x3
 
 class PositionalEncoding(nn.Module):
-    def __init__(self, d_model, dropout=0.1, max_len=5000):
+    def __init__(self, d_model, dropout=0.2, max_len=5000):
         super(PositionalEncoding, self).__init__()
         self.dropout = nn.Dropout(p=dropout)
 

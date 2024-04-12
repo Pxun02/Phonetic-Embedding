@@ -1,0 +1,59 @@
+Cantonese,Predicted Final Mandarin
+aa,"{'ya', 'wa', 'ua', 'a', 'ia'}"
+aai,"{'uai', 'ai', 'ie'}"
+aau,"{'ou', 'e', 'iu', 'ao', 'iao'}"
+aam,"{'yan', 'ia', 'an'}"
+aan,"{'an', 'ian', 'uan', 'yan', 'wan'}"
+aang,{'eng'}
+aap,"{'ia', 'i', 'a'}"
+aat,"{'ya', 'ua', 'a'}"
+aak,"{'ya', 'uo', 'e', 'o'}"
+a,set()
+ai,"{'ui', 'wei', 'i', 'ei', 'yi'}"
+au,"{'u', 'ou', 'ao', 'iu', 'you'}"
+am,"{'in', 'en', 'an', 'yin', 'un'}"
+an,"{'in', 'en', 'yun', 'an', 'yin', 'un', 'wen'}"
+ang,"{'ing', 'ong', 'un', 'eng'}"
+ap,"{'i', 'ao', 'e', 'a', 'ia', 'yi'}"
+at,"{'u', 'i', 'e', 'yu', 'wu', 'a', 'ue', 'yi'}"
+ak,"{'e', 'o'}"
+e,"{'ye', 'i', 'e', 'ie'}"
+ei,"{'ei', 'i'}"
+eu,set()
+em,set()
+eng,{'ing'}
+ep,set()
+ek,{'i'}
+i,"{'yi', 'i'}"
+iu,"{'iao', 'yao'}"
+im,"{'yan', 'an', 'ian'}"
+in,"{'yan', 'an', 'ian'}"
+ing,"{'iong', 'yong', 'ing', 'ying', 'eng'}"
+ip,"{'ye', 'e', 'ie'}"
+it,"{'ye', 'e', 'ie'}"
+ik,"{'u', 'yi', 'i', 'e'}"
+o,"{'wo', 'uo', 'e', 'o'}"
+oi,{'ai'}
+ou,"{'uo', 'u', 'wu', 'ao'}"
+on,{'an'}
+ong,"{'iang', 'uang', 'wang', 'ang'}"
+ot,{'e'}
+ok,"{'uo', 'e', 'o'}"
+u,"{'u', 'wu'}"
+ui,"{'ei', 'ui', 'wei'}"
+un,"{'uan', 'en', 'an', 'wan'}"
+ung,"{'weng', 'iong', 'yong', 'ong', 'eng'}"
+ut,"{'u', 'uo', 'wo', 'o'}"
+uk,"{'yu', 'u', 'ü'}"
+eoi,"{'ei', 'u', 'ui', 'ü'}"
+eon,"{'uan', 'un'}"
+eot,"{'u', 'i'}"
+oe,{'ue'}
+oeng,"{'ang', 'yang', 'iang'}"
+oet,set()
+oek,"{'üe', 'uo'}"
+yu,"{'yu', 'u'}"
+yun,"{'uan', 'yuan'}"
+yut,"{'u', 'yue', 'ue', 'uo', 'ie'}"
+m,set()
+ng,{'wu'}

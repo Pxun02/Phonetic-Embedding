@@ -1,0 +1,59 @@
+Cantonese,Predicted Final Mandarin
+aa,"{'ya', 'wa', 'ua', 'a', 'uai', 'ia'}"
+aai,"{'wei', 'ei', 'a', 'ai', 'uai', 'ie'}"
+aau,"{'ou', 'iao', 'iu', 'ao'}"
+aam,"{'yan', 'an', 'ian'}"
+aan,"{'an', 'ian', 'yin', 'uan', 'yan', 'wan'}"
+aang,{'eng'}
+aap,"{'yi', 'ia', 'i', 'a'}"
+aat,"{'ya', 'ua', 'a'}"
+aak,"{'ya', 'e', 'ei', 'uo', 'o'}"
+a,set()
+ai,"{'ui', 'wei', 'i', 'ei', 'yi'}"
+au,"{'ou', 'ao', 'iu', 'you', 'uang'}"
+am,"{'in', 'en', 'an', 'ian', 'yin', 'un', 'uo'}"
+an,"{'in', 'en', 'yun', 'an', 'yin', 'un', 'wen'}"
+ang,"{'ing', 'ong', 'ying', 'eng'}"
+ap,"{'i', 'ao', 'e', 'ia', 'uo'}"
+at,"{'u', 'i', 'e', 'ei', 'wu', 'a', 'ue', 'yi'}"
+ak,"{'ei', 'e', 'o'}"
+e,"{'i', 'e', 'ie'}"
+ei,"{'ei', 'i'}"
+eu,set()
+em,set()
+eng,{'ing'}
+ep,set()
+ek,"{'ei', 'i'}"
+i,"{'yi', 'i'}"
+iu,"{'iao', 'yao', 'ao'}"
+im,"{'yan', 'an', 'ian'}"
+in,"{'yan', 'an', 'ian'}"
+ing,"{'en', 'iong', 'ing', 'ying', 'eng'}"
+ip,"{'ye', 'e', 'ie'}"
+it,"{'ye', 'e', 'i', 'ie'}"
+ik,"{'u', 'yi', 'i', 'e'}"
+o,"{'o', 'e', 'wo', 'uo', 'ang'}"
+oi,{'ai'}
+ou,"{'uo', 'u', 'wu', 'ao'}"
+on,{'an'}
+ong,"{'wang', 'iang', 'ang', 'uang', 'eng'}"
+ot,{'e'}
+ok,"{'ao', 'e', 'ue', 'uo', 'o'}"
+u,"{'u', 'wu'}"
+ui,"{'ei', 'ui', 'wei'}"
+un,"{'uan', 'en', 'an', 'wan'}"
+ung,"{'weng', 'iong', 'yong', 'ong', 'eng'}"
+ut,"{'uo', 'o'}"
+uk,"{'yu', 'u', 'uo', 'iu'}"
+eoi,"{'ei', 'u', 'ui', 'en'}"
+eon,"{'in', 'uan', 'un', 'en'}"
+eot,"{'u', 'i'}"
+oe,{'uo'}
+oeng,"{'ang', 'yang', 'iang'}"
+oet,set()
+oek,"{'üe', 'uo', 'ao'}"
+yu,"{'yu', 'u'}"
+yun,"{'uan', 'yuan'}"
+yut,"{'u', 'yue', 'ue', 'uo', 'ie'}"
+m,set()
+ng,{'wu'}

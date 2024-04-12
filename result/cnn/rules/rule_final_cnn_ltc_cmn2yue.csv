@@ -1,0 +1,60 @@
+Middle Chinese,Predicted Final Cantonese
+e,"{'aa', 'ik', 'aam', 'e', 'it', 'ak', 'ip', 'ap', 'aai', 'aak', 'eot', 'aap', 'ok', 'o'}"
+a,"{'aa', 'aat', 'ai', 'ap', 'at', 'aak', 'aap'}"
+ei,"{'ei', 'ui'}"
+ai,"{'in', 'ui', 'aam', 'oi', 'aai'}"
+ou,"{'au', 'aa', 'aau', 'uk'}"
+ao,"{'ou', 'aau', 'iu', 'uk'}"
+en,"{'am', 'an', 'eon'}"
+an,"{'in', 'aam', 'an', 'un', 'am', 'aan', 'eon', 'on', 'oeng', 'im'}"
+eng,"{'ing', 'ung', 'aang', 'ang'}"
+ang,"{'aa', 'ong', 'oeng', 'ang'}"
+er,{'ei'}
+ya,{'aa'}
+yi,"{'aa', 'ik', 'yut', 'i', 'aai', 'at', 'aap'}"
+ye,"{'it', 'ip', 'i'}"
+you,{'au'}
+yao,"{'oek', 'aa', 'iu'}"
+yin,"{'am', 'aa', 'aan', 'an'}"
+yan,"{'in', 'aa', 'im'}"
+ying,"{'ing', 'ang'}"
+yang,"{'aa', 'ong', 'oeng'}"
+i,"{'eoi', 'aa', 'ik', 'i', 'ei', 'it', 'ak', 'ai', 'aai', 'at', 'ap', 'eot', 'aap', 'ek', 'eng'}"
+ie,"{'yut', 'e', 'it', 'oek', 'ip', 'aai'}"
+ia,"{'aap', 'aa', 'ap', 'yun'}"
+iu,{'au'}
+iao,"{'oek', 'ou', 'aau', 'iu'}"
+in,"{'an', 'am', 'eon', 'ing', 'im'}"
+ian,"{'in', 'aam', 'an', 'aan', 'im'}"
+ing,"{'ing', 'eng'}"
+iang,"{'ong', 'oeng', 'aang'}"
+wu,"{'u', 'aa', 'ou', 'un'}"
+wo,{'ak'}
+wa,"{'aa', 'aat'}"
+wei,"{'ei', 'ai', 'aa', 'ui'}"
+wai,set()
+wen,{'an'}
+wan,"{'un', 'aan', 'yun'}"
+weng,set()
+wang,{'ong'}
+u,"{'au', 'eoi', 'u', 'ou', 'aat', 'yun', 'ui', 'aa', 'yut', 'yu', 'un', 'uk', 'at', 'aak', 'ung', 'o'}"
+uo,"{'au', 'aa', 'yut', 'uk', 'oek', 'ok', 'o'}"
+ue,"{'aa', 'yut', 'ok', 'uk'}"
+o,"{'aa', 'ak', 'at', 'aak', 'ok', 'ut', 'o'}"
+ua,"{'aa', 'aan', 'aat'}"
+ui,"{'eoi', 'ui', 'aa', 'ai', 'oe', 'eon'}"
+uai,"{'eoi', 'ui', 'aai', 'aa'}"
+un,"{'yun', 'aa', 'an', 'eon'}"
+uan,"{'in', 'aa', 'yun', 'un', 'aan'}"
+ong,"{'aa', 'ang', 'ing', 'ung', 'ong'}"
+uang,"{'aan', 'aa', 'ong', 'oeng'}"
+yu,"{'yu', 'uk'}"
+yue,"{'oek', 'yut'}"
+yun,{'an'}
+yuan,{'yun'}
+yong,"{'ing', 'ung'}"
+ü,"{'eoi', 'eot'}"
+üe,{'yut'}
+ün,set()
+üan,set()
+iong,"{'ung', 'aa', 'yut', 'ing'}"

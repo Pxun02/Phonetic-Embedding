@@ -1,0 +1,60 @@
+Mandarin,Predicted Final Cantonese
+e,"{'aa', 'ik', 'e', 'it', 'ak', 'ip', 'aak', 'ok', 'o'}"
+a,"{'aap', 'aa', 'at', 'aat'}"
+ei,"{'eoi', 'ui', 'ei', 'ai', 'ip', 'aak'}"
+ai,"{'aa', 'aai', 'ak', 'oi'}"
+ou,"{'au', 'aa'}"
+ao,"{'au', 'aa', 'ou', 'aau', 'iu'}"
+en,"{'am', 'un', 'an'}"
+an,"{'in', 'aa', 'aam', 'un', 'am', 'aan', 'on', 'im'}"
+eng,"{'ing', 'ung', 'aang', 'ang'}"
+ang,"{'ong', 'oeng'}"
+er,{'i'}
+ya,{'aa'}
+yi,"{'ik', 'i'}"
+ye,"{'ip', 'e'}"
+you,{'au'}
+yao,{'iu'}
+yin,"{'aa', 'an'}"
+yan,{'in'}
+ying,{'ing'}
+yang,{'oeng'}
+i,"{'aa', 'ik', 'i', 'ei', 'ai', 'aap'}"
+ie,"{'ei', 'it', 'ip', 'aai'}"
+ia,"{'aap', 'aa'}"
+iu,{'au'}
+iao,"{'aau', 'iu'}"
+in,"{'am', 'an', 'eon'}"
+ian,"{'in', 'aan', 'im'}"
+ing,{'ing'}
+iang,{'oeng'}
+wu,"{'u', 'aa', 'ou'}"
+wo,{'o'}
+wa,{'aa'}
+wei,{'ai'}
+wai,{'aai'}
+wen,{'an'}
+wan,"{'aan', 'yun'}"
+weng,{'ung'}
+wang,{'ong'}
+u,"{'u', 'eoi', 'ou', 'aa', 'yu', 'uk', 'at', 'o'}"
+uo,"{'aa', 'yut', 'oek', 'ok', 'o'}"
+ue,"{'yut', 'ok'}"
+o,"{'aa', 'ak', 'ok', 'o'}"
+ua,"{'eoi', 'aa'}"
+ui,"{'eoi', 'aa', 'ai'}"
+uai,"{'eoi', 'aa', 'aai'}"
+un,"{'yun', 'aa', 'an', 'eon'}"
+uan,"{'un', 'aan', 'yun', 'aa'}"
+ong,"{'ung', 'ang'}"
+uang,"{'aa', 'ong', 'oeng'}"
+yu,"{'yu', 'uk'}"
+yue,{'yut'}
+yun,{'an'}
+yuan,{'yun'}
+yong,{'ung'}
+ü,"{'eoi', 'uk'}"
+üe,{'oek'}
+ün,set()
+üan,set()
+iong,"{'aa', 'ung', 'ing'}"

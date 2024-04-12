@@ -1,0 +1,59 @@
+Middle Chinese,Predicted Final Mandarin
+aa,"{'i', 'ua', 'a', 'ya', 'ia', 'wo'}"
+aai,"{'ui', 'i', 'ie', 'uai', 'ai'}"
+aau,"{'iao', 'yao', 'ao'}"
+aam,"{'an', 'ian'}"
+aan,"{'yan', 'uan', 'ian', 'an', 'yin', 'wan'}"
+aang,"{'an', 'ying', 'eng'}"
+aap,"{'ia', 'i', 'a', 'ie'}"
+aat,"{'yan', 'ua', 'a', 'ya', 'wo'}"
+aak,"{'ia', 'e', 'u'}"
+a,set()
+ai,"{'ui', 'i', 'wei', 'yi', 'ou'}"
+au,"{'you', 'iu', 'ou', 'ao'}"
+am,"{'in', 'an', 'yin', 'en'}"
+an,"{'yan', 'un', 'wen', 'yun', 'ian', 'an', 'yin', 'in', 'en'}"
+ang,"{'ing', 'ong', 'eng'}"
+ap,"{'ia', 'i', 'e', 'a'}"
+at,"{'ie', 'i', 'ua', 'wen', 'yi', 'a', 'u', 'ia'}"
+ak,"{'i', 'e', 'wo', 'o'}"
+e,"{'i', 'e'}"
+ei,"{'ei', 'i', 'wei'}"
+eu,set()
+em,set()
+eng,"{'in', 'ing', 'en'}"
+ep,set()
+ek,{'i'}
+i,"{'i', 'er', 'yi'}"
+iu,"{'iao', 'yao', 'ao'}"
+im,"{'an', 'yan', 'ian'}"
+in,"{'an', 'yan', 'ian'}"
+ing,"{'ong', 'iong', 'eng', 'yong', 'ying', 'ing'}"
+ip,"{'ie', 'i', 'e'}"
+it,"{'ie', 'i', 'yi', 'ye', 'e'}"
+ik,"{'e', 'i', 'u', 'yi'}"
+o,"{'o', 'ye', 'e', 'u', 'uo'}"
+oi,"{'i', 'ai'}"
+ou,"{'u', 'wu', 'ao'}"
+on,{'an'}
+ong,"{'ong', 'iang', 'wang', 'ang', 'an', 'uang'}"
+ot,{'e'}
+ok,"{'o', 'e', 'u', 'ue', 'uo'}"
+u,"{'u', 'wu'}"
+ui,"{'ui', 'uai', 'ei'}"
+un,"{'uan', 'wan', 'an'}"
+ung,"{'yong', 'iong', 'ong', 'eng'}"
+ut,"{'u', 'o'}"
+uk,"{'yu', 'u'}"
+eoi,"{'ui', 'i', 'u', 'ü'}"
+eon,"{'in', 'un', 'en'}"
+eot,"{'i', 'uai', 'u', 'ü'}"
+oe,set()
+oeng,"{'ang', 'yang', 'uang', 'iang'}"
+oet,set()
+oek,"{'uo', 'yue', 'ao'}"
+yu,"{'yu', 'u'}"
+yun,"{'uan', 'un', 'wan', 'yuan'}"
+yut,"{'ie', 'yi', 'u', 'yue', 'ue', 'uo'}"
+m,set()
+ng,{'wu'}
